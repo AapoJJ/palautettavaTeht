@@ -1,1 +1,2 @@
-# palautettavaTeht
+# palautettavaTeht 
+Kurssille MobileServiceProgramming
