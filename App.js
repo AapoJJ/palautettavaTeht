@@ -30,7 +30,7 @@ export default function App() {
                   : 'view-list-outline';
               }
   
-              // You can return any component that you like here!
+              // You can return any component that you like here
               return <MaterialCommunityIcons
                name={iconName} size={size} color={color} />;
             },
