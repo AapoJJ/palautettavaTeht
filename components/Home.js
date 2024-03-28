@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Text, View, TextInput, Pressable, Keyboard } from 'react-native'
-import MaterialCommunityIcons from '@expo/vector-icons/materialCommunityIcons'
+import { MaterialCommunityIcons } from '@expo/vector-icons';
 import Header from './Header';
 import Footer from './Footer';
 import { 
